@@ -115,3 +115,4 @@ class Playbook:
 
     def get_plays(self):
         return self._entries[:]
+    print ("TADAAAAAAAAAA")
